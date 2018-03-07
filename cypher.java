@@ -1,3 +1,5 @@
+//this can be used at sever side
+
 public class cypher
 {
 	private static int[] chain={
